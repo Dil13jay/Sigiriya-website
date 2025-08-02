@@ -1,0 +1,79 @@
+@charset "utf-8";
+.card.col-md-4.col-xl-12 .card-body .btn.btn-primary {
+}
+button {
+    -webkit-box-shadow: 0px 0px #01030E;
+    box-shadow: 0px 0px #01030E;
+    background-color: #071BB0;
+}
+h3 {
+    text-align: center;
+}
+p {
+    font-size: large;
+    font-style: normal;
+    text-align: center;
+}
+button {
+    text-align: center;
+}
+section {
+    background-color: #F3F28B;
+}
+
+
+h2 {
+    text-align: center;
+}
+
+
+
+.navbar.navbar-expand-lg.navbar-dark.bg-dark {
+    text-align: left;
+    background-color: #020143;
+}
+.jumbotron.jumbotron-fluid.text-center .display-4.text-uppercase {
+}
+.jumbotron.jumbotron-fluid.text-center .display-4.text-uppercase {
+    background-color: #959595;
+}
+.jumbotron.jumbotron-fluid.text-center .display-4.text-capitalize {
+    background-color: #060235;
+    color: #FFFFFF;
+}
+.jumbotron.jumbotron-fluid.text-center .display-4.text-uppercase {
+    background-color: #F2F2FE;
+    color: #070707;
+}
+.jumbotron.jumbotron-fluid.text-center .display-4.text-capitalize {
+    color: #000000;
+    background-color: #F9F9F9;
+    font-style: italic;
+}
+.jumbotron.jumbotron-fluid.text-center .display-4.text-uppercase {
+    background-color: #FDFDFD;
+    font-style: italic;
+}
+.jumbotron.jumbotron-fluid.text-center .text-uppercase.text-center strong {
+    font-style: oblique;
+}
+h3 {
+}
+p {
+}
+.jumbotron.jumbotron-fluid.text-center .display-4.text-uppercase {
+    font-style: normal;
+}
+.navbar.navbar-expand-lg.navbar-dark.bg-dark {
+    font-size: x-large;
+    background-size: contain;
+}
+.carousel-caption .text-uppercase.text-center strong {
+    color: #070505;
+}
+.jumbotron.jumbotron-fluid.text-center .display-4.text-uppercase strong {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+.jumbotron.jumbotron-fluid.text-center .display-4.text-capitalize strong {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
